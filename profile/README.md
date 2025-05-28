@@ -28,7 +28,6 @@ We are here to build a awesome applications for telugu speaking people around th
 
 - [CodingwithRK](https://www.github.com/codingwithrk)
 - [Bablu](https://www.github.com/Bablu263)
-- [Sukumar](https://www.github.com/Sukumar-3)
 
 
 ## Feedback
