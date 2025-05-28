@@ -1,7 +1,7 @@
 
 # Telugu-Bible
 
-We are here to build a awesome applications for telugu speaking people around the world.
+We are here to build an awesome application for Telugu-speaking people around the world.
 
 ![Logo](https://avatars.githubusercontent.com/u/195589235)
 
