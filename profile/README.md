@@ -8,9 +8,8 @@ We are here to build an awesome application for Telugu-speaking people around th
 ## Our Products
 
 - [Website](https://telugu-bible.in/)
-- [Mobile App (Android)](https://play.google.com/store/apps/details?id=com.codingwithrk.bible_app)
+- [Download Mobile App](https://telugu-bible.in/download-mobile-app)
 - [Feedback](https://feedback.telugu-bible.in/)
-- [Submit Songs](https://songs-form.telugu-bible.in/)
 
 
 ## Tech Stack
@@ -19,9 +18,9 @@ We are here to build an awesome application for Telugu-speaking people around th
 
 **Forms:** Python
 
-**Server:** Node, Express
+**Backend:** Node, Express, Laravel, GoLang
 
-**Mobile App:** Dart, Flutter
+**Mobile App:** Dart, Flutter, NativePHP
 
 
 ## Authors
